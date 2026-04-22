@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratama
 
-💻 Backend Developer (Learning & Building)
+💻 Backend Engineer (Learning & Building)
 🚀 Interested in API, Database, and System Design
 
 ---
