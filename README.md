@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Enzie Pratama
 
 💻 Backend Engineer with a focus on AI Integration
+
 🚀 Building intelligent systems using APIs, databases, and LLM-powered applications
 
 ---
