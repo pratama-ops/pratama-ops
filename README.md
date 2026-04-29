@@ -1,9 +1,14 @@
 # 👋 Hi, I'm Pratama
 
-💻 Backend Engineer (Learning & Building)
-🚀 Interested in API, Database, and System Design
+💻 Backend Engineer with a focus on AI Integration
+🚀 Building intelligent systems using APIs, databases, and LLM-powered applications
 
 ---
+I am a backend-focused developer who enjoys building scalable systems and integrating AI into real-world applications.
+My current focus is on developing backend services that leverage Large Language Models (LLMs), including building AI agents, automating workflows, and designing API-driven architectures.
+
+I have hands-on experience with Node.js and Express for backend development, along with relational databases like MySQL and PostgreSQL.
+I also work with Docker and Git to manage development environments and workflows efficiently.
 
 ## ⚙️ Tech Stack
 
