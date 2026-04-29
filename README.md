@@ -41,13 +41,15 @@ I also work with Docker and Git to manage development environments and workflows
 
 ## 🔥 Currently Learning
 
-* REST API Development
-* Backend Architecture
-* Clean Code
+* 🤖 Designing and building AI Agents on top of LLMs
+* 🔗 Integrating AI models into backend systems (API-based)
+* ⚙️ Scalable backend architecture for intelligent applications
+* 🐳 Docker for development and deployment workflows
+* 🧠 System Design and performance optimization
 
 ---
 
 ## 📌 Featured Project
 
-* 💰 Sistem Manajemen Kas
+* 💰 Finance Tracker Agent
 * 📊 Monitor Pembayaran Siswa
