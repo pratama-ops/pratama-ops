@@ -47,12 +47,3 @@ I also work with Docker and Git to manage development environments and workflows
 * ⚙️ Scalable backend architecture for intelligent applications
 * 🐳 Docker for development and deployment workflows
 * 🧠 System Design and performance optimization
-
----
-
-## 📌 Featured Project
-
-* 💰 Finance Tracker Agent
-* 📊 Monitor Pembayaran Siswa
-* Open Anggaran
-* Threads Agent
